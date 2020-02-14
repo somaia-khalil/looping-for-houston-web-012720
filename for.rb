@@ -5,6 +5,7 @@ def using_for
 	counter = "Wingardium Leviosa"
 	for counter in checklist
 	puts counter
+	end
 end
 
 
