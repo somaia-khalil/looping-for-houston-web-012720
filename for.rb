@@ -2,9 +2,9 @@
 def using_for
 	checklist = 1..10
 	#your code here
-	counter = "Wingardium Leviosa"
+# 	counter = "Wingardium Leviosa"
 	for counter in checklist
-	puts counter
+	puts "Wingardium Leviosa"
 	end
 end
 
